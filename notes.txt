@@ -1,0 +1,1 @@
+deploy to github : https://nuxtjs.org/deployments/github-pages
