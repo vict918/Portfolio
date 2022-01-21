@@ -11,9 +11,18 @@
 </template>
 
 <script>
-  export default {
-    
+export default {
+  head: {
+    title: 'Home',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Home'
+      }
+    ],
   }
+}
 </script>
 
 <style scoped>

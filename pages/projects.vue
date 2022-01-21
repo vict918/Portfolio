@@ -1,0 +1,97 @@
+<template>
+    <div>
+        <div class="projects">
+            <div class="projects__bio-image">
+                <h1 class="text-secondary">My Projects</h1>
+            </div>
+
+            <div class="projects__items">
+                <div class="projects__item">
+                <img src="~/assets/img/project-1.jpg" alt="My Project">
+                <div class="projects__btns">
+                    <a href="#!" class="projects__btn">
+                    <i class="fas fa-eye"></i> Preview
+                    </a>
+                    <a href="#!" class="projects__btn">
+                    <i class="fab fa-github"></i> Github
+                    </a>
+                </div>
+                </div>
+                <div class="projects__item">
+                <img src="~/assets/img/project-2.jpg" alt="My Project">
+                <div class="projects__btns">
+                    <a href="#!" class="projects__btn">
+                    <i class="fas fa-eye"></i> Preview
+                    </a>
+                    <a href="#!" class="projects__btn">
+                    <i class="fab fa-github"></i> Github
+                    </a>
+                </div>
+                </div>
+                <div class="projects__item">
+                <img src="~/assets/img/project-3.jpg" alt="My Project">
+                <div class="projects__btns">
+                    <a href="#!" class="projects__btn">
+                    <i class="fas fa-eye"></i> Preview
+                    </a>
+                    <a href="#!" class="projects__btn">
+                    <i class="fab fa-github"></i> Github
+                    </a>
+                </div>
+                </div>
+                <div class="projects__item">
+                <img src="~/assets/img/project-4.jpg" alt="My Project">
+                <div class="projects__btns">
+                    <a href="#!" class="projects__btn">
+                    <i class="fas fa-eye"></i> Preview
+                    </a>
+                    <a href="#!" class="projects__btn">
+                    <i class="fab fa-github"></i> Github
+                    </a>
+                </div>
+                </div>
+                <div class="projects__item">
+                <img src="~/assets/img/project-5.jpg" alt="My Project">
+                <div class="projects__btns">
+                    <a href="#!" class="projects__btn">
+                    <i class="fas fa-eye"></i> Preview
+                    </a>
+                    <a href="#!" class="projects__btn">
+                    <i class="fab fa-github"></i> Github
+                    </a>
+                </div>
+                </div>
+                <div class="projects__item">
+                <img src="~/assets/img/project-6.jpg" alt="My Project">
+                <div class="projects__btns">
+                    <a href="#!" class="projects__btn">
+                    <i class="fas fa-eye"></i> Preview
+                    </a>
+                    <a href="#!" class="projects__btn">
+                    <i class="fab fa-github"></i> Github
+                    </a>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+<script>
+export default {
+  head: {
+    title: 'Projects',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Victor Cotton Projects'
+      }
+    ],
+  }
+}
+</script>
+
+<style lang="scss" scoped>
+
+</style>

@@ -12,7 +12,7 @@
                         <NuxtLink to="/about" class="menu-nav__link">About me</NuxtLink>
                     </li>
                     <li class="menu-nav__item active">
-                        <NuxtLink to="/projects=" class="menu-nav__link">My projects</NuxtLink>
+                        <NuxtLink to="/projects" class="menu-nav__link">My projects</NuxtLink>
                     </li>
                     <li class="menu-nav__item active">
                         <NuxtLink to="/contact" class="menu-nav__link">Contact</NuxtLink>
