@@ -8,13 +8,13 @@
                     <li class="menu-nav__item active">
                         <NuxtLink to="/" class="menu-nav__link">Home</NuxtLink>
                     </li>
-                    <li class="menu-nav__item active">
+                    <li class="menu-nav__item">
                         <NuxtLink to="/about" class="menu-nav__link">About me</NuxtLink>
                     </li>
-                    <li class="menu-nav__item active">
+                    <li class="menu-nav__item">
                         <NuxtLink to="/projects" class="menu-nav__link">My projects</NuxtLink>
                     </li>
-                    <li class="menu-nav__item active">
+                    <li class="menu-nav__item">
                         <NuxtLink to="/contact" class="menu-nav__link">Contact</NuxtLink>
                     </li>
                 </ul>
